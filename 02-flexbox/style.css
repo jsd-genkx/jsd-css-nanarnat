@@ -27,14 +27,14 @@ body {
 	min-height: 100dvh;
 
 	display: flex;
-	/* gap: 1rem; */
-	/* justify-content: center; */
-	/* align-items: center; */
-	/* align-content: center; */
-	/* flex-wrap: wrap; */
+	gap: 1rem; 
+	justify-content: center; 
+	align-items: center; 
+	align-content: center; 
+	flex-wrap: wrap; 
 
-	/* flex-direction: column; */
-	/* height: 90vh; */
+	flex-direction: column; 
+	height: 90vh; 
 }
 
 .box {
@@ -45,13 +45,13 @@ body {
 	color: var(--color-white);
 	border: solid var(--color-white) 5px;
 
-	/* flex-shrink: 1;
+	flex-shrink: 1;
 	flex-grow: 0;
-	flex-basis: 300px; */
+	flex-basis: 300px; 
 
-	/* flex:1; */
+	flex:1; 
 }
 
-/* .box3 {
+ .box3 {
 	flex:555;
-} */
+} 
